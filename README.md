@@ -8,21 +8,21 @@ MyJournal is an Android application that allows you to journalize your days, emo
 
 ![Home](screenshots/home.png)
 
-![Adding an entry](screenshots/addEntry.png)
+![Adding an entry](screenshots/addEntry.png){:height=30% width=30%}.
 
-![Delete entries](screenshots/deleteEntries.png)
+![Delete entries](screenshots/deleteEntries.png){:height=30% width=30%}.
 
-![Delete entries](screenshots/emotionsPieChart.png)
+![Delete entries](screenshots/emotionsPieChart.png){:height=30% width=30%}.
 
-![Delete entries](screenshots/satisfactionPieChart.png)
+![Delete entries](screenshots/satisfactionPieChart.png){:height=30% width=30%}.
 
-![Delete entries](screenshots/weekdaySatisfactionAvg.png)
+![Delete entries](screenshots/weekdaySatisfactionAvg.png){:height=30% width=30%}.
 
 ## Built with:
 1. MVVM Architecture [Jetpack Guide](https://developer.android.com/jetpack/guide)
 2. [Material Spinner](https://github.com/jaredrummler/MaterialSpinner/): library that allows you to build stylish spinners.
 3. [ExpandableFab](https://github.com/nambicompany/expandable-fab): a library that allows you to build highly customizable floating action buttons.
-4. [# Material-Calendar-View](https://github.com/Applandeo/Material-Calendar-View): a library that allows you to build highly customizable calendar views for Android.
+4. [Material-Calendar-View](https://github.com/Applandeo/Material-Calendar-View): a library that allows you to build highly customizable calendar views for Android.
 5. [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart): a powerful and easy to use chart library for Android
 
 ## Credits:
