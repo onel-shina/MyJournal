@@ -6,17 +6,12 @@ MyJournal is an Android application that allows you to journalize your days, emo
 
 ## Screenshots:
 
-![Home](screenshots/home.png)
+![Home](screenshots/home.png) ![Adding an entry](screenshots/addEntry.png)
 
-![Adding an entry](screenshots/addEntry.png)
+![Delete entries](screenshots/deleteEntries.png) ![Emotions Pie Chart](screenshots/emotionsPieChart.png)
 
-![Delete entries](screenshots/deleteEntries.png)
+![Satisfaction Pie Chart](screenshots/satisfactionPieChart.png) ![Satisfaction Weekday Avg](screenshots/weekdaySatisfactionAvg.png)
 
-![Emotions Pie Chart](screenshots/emotionsPieChart.png)
-
-![Satisfaction Pie Chart](screenshots/satisfactionPieChart.png)
-
-![Satisfaction Weekday Avg](screenshots/weekdaySatisfactionAvg.png)
 
 ## Built with:
 1. MVVM Architecture [Jetpack Guide](https://developer.android.com/jetpack/guide)
